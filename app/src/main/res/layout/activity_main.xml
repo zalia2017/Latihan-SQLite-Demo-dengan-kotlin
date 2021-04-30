@@ -27,7 +27,7 @@
             android:layout_height="wrap_content"
             android:id="@+id/etName"
             android:layout_weight="0.75"
-            android:hint="Enter Name" />
+            android:hint="Enter Your Name" />
     </LinearLayout>
 
     <LinearLayout
